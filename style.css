@@ -5,10 +5,12 @@ h1 {
     color: #EFEFEF;
 }
 p {
-    border: 2px solid #EFEFEF;
+    border: 1px solid #4F4F4F;
+    border-radius: 6px;
     color: #EFEFEF;
 }
 a {
-    border: 2px solid #EFEFEF;
+    border: 1px solid #4F4F4F;
+    border-radius: 6px;
     color: #EF55EF;
 }
