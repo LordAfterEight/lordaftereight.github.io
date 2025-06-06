@@ -1,0 +1,14 @@
+body {
+    background-color: #171717;
+}
+h1 {
+    color: #EFEFEF;
+}
+p {
+    border: 2px solid #EFEFEF;
+    color: #EFEFEF;
+}
+a {
+    border: 2px solid #EFEFEF;
+    color: #EF55EF;
+}
